@@ -46,9 +46,11 @@
 ###   7.	Open the file from the USB storage and select the Print option.
 
 ## Output:
+![empd 3](https://github.com/user-attachments/assets/61098442-2af8-4e27-8349-4f8c9ff5d28e)
 
-### Name:
-### Register Number:
+
+### Name:E HEMACHANDRAN
+### Register Number: 24003784
 
 ## RESULT:
 ###   Thus a prototype of the given part model is developed using 3D Printer.
